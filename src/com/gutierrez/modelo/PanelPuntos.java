@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.modelo;
+package com.gutierrez.modelo;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Flia
  */
 public class PanelPuntos extends JPanel{
      private Puntos puntos;

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.modelo;
+package com.gutierrez.modelo;
 
 import java.awt.BorderLayout;
 import java.awt.*;
@@ -13,7 +13,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Flia
  */
 public class VentanaPuntos extends JFrame{
     

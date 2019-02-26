@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.modelo;
+package com.gutierrez.modelo;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Flia
  */
 public class Punto {
     public int x;

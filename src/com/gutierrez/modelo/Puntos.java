@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.modelo;
+package com.gutierrez.modelo;
 
 import java.util.ArrayList;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Flia
  */
 public class Puntos {
     private ArrayList puntos= new ArrayList <Puntos>();
